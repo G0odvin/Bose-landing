@@ -1,5 +1,8 @@
 # Advertising landing page for Bose products
 
+# Demo
+- Demo hosted
+
 # Technologies used
 1. Gulp
 2. SCSS
@@ -26,6 +29,6 @@ Complete
 To my colleagues for advice and support
 
 #Contact
-Feel free to contact me!
-novyk.anton@gmail.com
-https://www.linkedin.com/in/anton-novyk-50453a212/
+-Feel free to contact me!
+-novyk.anton@gmail.com
+-https://www.linkedin.com/in/anton-novyk-50453a212/
