@@ -1,7 +1,7 @@
 # Advertising landing page for Bose products
 
 # Demo
-- Demo hosted
+- Demo hosted https://g0odvin.github.io/Bose-landing/
 
 # Technologies used
 1. Gulp
